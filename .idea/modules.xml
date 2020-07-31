@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Foundation.iml" filepath="$PROJECT_DIR$/Foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Foundation-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Foundation-app.iml" group="Foundation/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nick-Foundation.iml" filepath="$PROJECT_DIR$/.idea/modules/nick-Foundation.iml" group="Foundation" />
     </modules>
   </component>
 </project>
